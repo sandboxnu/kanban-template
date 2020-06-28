@@ -1,5 +1,7 @@
 # Kanban Template
 
+Visit `Projects` --> `Template` in this repository to see the Kanban/Project Tracker template.
+
 ## What is this for?
 
 One of the most important parts about being a team lead is having a method for tracking the issues the team will tackle during the semester. This achieves three goals:
